@@ -1,16 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+<script src="script.js"></script>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Visualization Web App</title>
     <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <h1>Data Visualization Web App</h1>
+    <label for="dropdown">Select County Code:</label>
+    <select id="dropdown" onchange="handleDropdownChange(this.value)">
+        <!-- Options will be generated dynamically using JavaScript -->
+    </select>
     <div id="chart_div"></div>
     <canvas id="chart"></canvas>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="script.js"></script>
+    
 </body>
 </html>

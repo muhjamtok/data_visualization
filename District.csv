@@ -1,0 +1,935 @@
+CO,Name,Value
+1,Alameda Unified,140716572.5
+1,Albany City Unified,59371521.45
+1,Berkeley Unified,200192846
+1,Castro Valley Unified,126970952.9
+1,Emery Unified,16338889.87
+1,Fremont Unified,473669616.1
+1,Hayward Unified,337492817.7
+1,Livermore Valley Joint Unified,192253800.6
+1,Mountain House Elementary,600598.47
+1,Newark Unified,77829954.65
+1,New Haven Unified,148312851.4
+1,Oakland Unified,730140590.7
+1,Piedmont City Unified,52443902.64
+1,San Leandro Unified,142901863
+1,San Lorenzo Unified,139295565.1
+1,Dublin Unified,178876257.2
+1,Pleasanton Unified,212649049.4
+1,Sunol Glen Unified,4573219.57
+2,Alpine County Unified,3209958.29
+3,Amador County Unified,56859498.39
+4,Bangor Union Elementary,1568768.49
+4,Biggs Unified,7925829.16
+4,Chico Unified,183227750.1
+4,Durham Unified,12791231.53
+4,Golden Feather Union Elementary,2158189.4
+4,Manzanita Elementary,4122613.25
+4,Oroville City Elementary,36689577.26
+4,Oroville Union High,38409979.34
+4,Palermo Union Elementary,20240928.96
+4,Paradise Unified,30038294.91
+4,Thermalito Union Elementary,25372820.44
+4,Pioneer Union Elementary,1171673.95
+4,Gridley Unified,30656896.08
+5,Bret Harte Union High,14640944.92
+5,Calaveras Unified,39785222.05
+5,Mark Twain Union Elementary,9854406.96
+5,Vallecito Union Elementary,9469200.59
+6,Colusa Unified,20923498.27
+6,Maxwell Unified,6163057.33
+6,Pierce Joint Unified,19015150.66
+6,Williams Unified,17454214.78
+7,Acalanes Union High,97194598.33
+7,Antioch Unified,254215108.2
+7,Brentwood Union Elementary,130928363.3
+7,Byron Union Elementary,19113627.02
+7,Canyon Elementary,992322.27
+7,John Swett Unified,22581849.96
+7,Knightsen Elementary,7255916.19
+7,Lafayette Elementary,49417943.27
+7,Liberty Union High,117746855.9
+7,Martinez Unified,57447668.09
+7,Moraga Elementary,27288863.39
+7,Mt. Diablo Unified,420265358.5
+7,Oakley Union Elementary,69010566.67
+7,Orinda Union Elementary,38286425.43
+7,Pittsburg Unified,182411436.5
+7,West Contra Costa Unified,451586385.7
+7,San Ramon Valley Unified,426959419.2
+7,Walnut Creek Elementary,47798052.13
+8,Del Norte County Unified,62357127.72
+9,Buckeye Union Elementary,57605220.66
+9,Camino Union Elementary,6472188.98
+9,El Dorado Union High,94667119.4
+9,Gold Oak Union Elementary,5693601.05
+9,Gold Trail Union Elementary,7248766.76
+9,Indian Diggings Elementary,505516.68
+9,Lake Tahoe Unified,59987385.51
+9,Latrobe Elementary,2956958.51
+9,Mother Lode Union Elementary,13372873.68
+9,Pioneer Union Elementary,4004740.89
+9,Placerville Union Elementary,16136853.17
+9,Pollock Pines Elementary,7836324.71
+9,Rescue Union Elementary,42690311.85
+9,Silver Fork Elementary,498811.71
+9,Black Oak Mine Unified,18382772.17
+10,Alvina Elementary,2951007.15
+10,Big Creek Elementary,1573196.37
+10,Burrel Union Elementary,2389920.15
+10,Clay Joint Elementary,2996234.72
+10,Clovis Unified,583122924.2
+10,Coalinga-Huron Unified,79888014.41
+10,Fowler Unified,39648268.17
+10,Fresno Unified,1328413593
+10,Kingsburg Elementary Charter,30093858.86
+10,Kingsburg Joint Union High,19523171.37
+10,Kings Canyon Joint Unified,164796639.1
+10,Laton Joint Unified,12352461.99
+10,Monroe Elementary,3394767.71
+10,Orange Center Elementary,5473998.76
+10,Pacific Union Elementary,6010626.77
+10,Parlier Unified,55635690.82
+10,Pine Ridge Elementary,2598507.67
+10,Raisin City Elementary,4729570.57
+10,Sanger Unified,184634720.9
+10,Selma Unified,110885935
+10,Washington Colony Elementary,6930432.75
+10,West Park Elementary,6048981.06
+10,Westside Elementary,4740430.34
+10,Firebaugh-Las Deltas Unified,38023642.71
+10,Central Unified,240297842.5
+10,Kerman Unified,78227094
+10,Mendota Unified,59140600.57
+10,Golden Plains Unified,26413192.55
+10,Sierra Unified,22461375.68
+10,Riverdale Joint Unified,26054947.15
+10,Caruthers Unified,25406155.66
+10,Washington Unified,44760559.38
+11,Capay Joint Union Elementary,2435099.62
+11,Lake Elementary,2309381.85
+11,Plaza Elementary,2176106.43
+11,Princeton Joint Unified,2896773.26
+11,Stony Creek Joint Unified,2701564.51
+11,Willows Unified,18959910.15
+11,Orland Joint Unified,30116832.4
+11,Hamilton Unified,9134273.51
+12,Arcata Elementary,9441667.91
+12,Northern Humboldt Union High,26010278.53
+12,Big Lagoon Union Elementary,622267.74
+12,Blue Lake Union Elementary,2837685.58
+12,Bridgeville Elementary,937574.43
+12,Cuddeback Union Elementary,2251965.39
+12,Cutten Elementary,7164171.05
+12,Fieldbrook Elementary,1464592.37
+12,Fortuna Union High,15129700.6
+12,Freshwater Elementary,3928071.25
+12,Garfield Elementary,1011266.31
+12,Green Point Elementary,401808.45
+12,Hydesville Elementary,2616229.3
+12,Jacoby Creek Elementary,5603553.82
+12,Klamath-Trinity Joint Unified,21872794.7
+12,Kneeland Elementary,709253.63
+12,Loleta Union Elementary,2099099.17
+12,Maple Creek Elementary,404902.72
+12,Mckinleyville Union Elementary,15017876.97
+12,Orick Elementary,740084.47
+12,Pacific Union Elementary,7220257.61
+12,Peninsula Union Elementary,1344200.36
+12,Rio Dell Elementary,4999064.77
+12,Scotia Union Elementary,2611927.83
+12,South Bay Union Elementary,6558709.75
+12,Southern Humboldt Joint Unified,12295730.62
+12,Trinidad Union Elementary,2754095.43
+12,Ferndale Unified,7128579.36
+12,Mattole Unified,1263385.21
+12,Eureka City Unified,53441146.5
+12,Fortuna Elementary,18394582.13
+13,Brawley Elementary,64322638.49
+13,Brawley Union High,36839503.78
+13,Calexico Unified,158500396.1
+13,Calipatria Unified,19279843.32
+13,Central Union High,71673637.3
+13,El Centro Elementary,85947533.67
+13,Heber Elementary,21876208.44
+13,Holtville Unified,26883187.14
+13,Imperial Unified,62607290.47
+13,Magnolia Union Elementary,1606050.42
+13,Mccabe Union Elementary,16703258.91
+13,Meadows Union Elementary,7521168.29
+13,Mulberry Elementary,986067.66
+13,San Pasqual Valley Unified,17373773.18
+13,Seeley Union Elementary,7479922.78
+13,Westmorland Union Elementary,8399149.98
+14,Big Pine Unified,4751099.56
+14,Death Valley Unified,1308792.53
+14,Lone Pine Unified,6968538.46
+14,Owens Valley Unified,2874911.37
+14,Round Valley Joint Elementary,1594133.9
+14,Bishop Unified,29393915.37
+15,Arvin Union Elementary,52503210.76
+15,Bakersfield City Elementary,522472029.6
+15,Beardsley Elementary,32495642.22
+15,Blake Elementary,272664.32
+15,Panama-Buena Vista Union Elementary,282680472
+15,Buttonwillow Union Elementary,6448865.01
+15,Caliente Union Elementary,1230929.88
+15,Delano Union Elementary,99151129.07
+15,Delano Joint Union High,76915080.32
+15,Di Giorgio Elementary,4057377.3
+15,Edison Elementary,18910250.41
+15,Elk Hills Elementary,2764237.73
+15,Fairfax Elementary,42819804.88
+15,Fruitvale Elementary,43538696.65
+15,General Shafter Elementary,3570467.63
+15,Greenfield Union,140962668.6
+15,Kern High,698764449.9
+15,Kernville Union Elementary,15083139.57
+15,Lakeside Union Elementary,17471269.79
+15,Lamont Elementary,43118460.19
+15,Richland Union Elementary,47921299.13
+15,Linns Valley-Poso Flat Union,708967.04
+15,Lost Hills Union Elementary,7652245.6
+15,Maple Elementary,4150785.34
+15,Maricopa Unified,7430256.08
+15,Mckittrick Elementary,2679011.83
+15,Midway Elementary,1633216.31
+15,Mojave Unified,45333722.49
+15,Muroc Joint Unified,26540254.3
+15,Norris Elementary,46372416.4
+15,Pond Union Elementary,3517812.44
+15,Rosedale Union Elementary,72168103.1
+15,Semitropic Elementary,4099101.53
+15,Southern Kern Unified,54076446.77
+15,South Fork Union Elementary,5026983.54
+15,Standard Elementary,46740668.14
+15,Taft City Elementary,31582365.36
+15,Taft Union High,27200773.66
+15,Tehachapi Unified,59686863.22
+15,Vineland Elementary,13124426.72
+15,Wasco Union Elementary,64874597.7
+15,Wasco Union High,29879057.43
+15,Rio Bravo-Greeley Union Elementary,14189606.66
+15,Sierra Sands Unified,72455860.49
+15,Mcfarland Unified,53875132.42
+15,El Tejon Unified,12889405.41
+16,Armona Union Elementary,14575781.55
+16,Central Union Elementary,31488946.91
+16,Corcoran Joint Unified,53727676.76
+16,Hanford Elementary,84438371.38
+16,Hanford Joint Union High,57913236.68
+16,Island Union Elementary,4897915.61
+16,Kings River-Hardwick Union Elementary,9849970.71
+16,Kit Carson Union Elementary,5683065.83
+16,Lakeside Union Elementary,4767301.16
+16,Lemoore Union Elementary,45374639.83
+16,Lemoore Union High,29314490.56
+16,Pioneer Union Elementary,19854934.45
+16,Reef-Sunset Unified,43523964.39
+17,Kelseyville Unified,31156808.8
+17,Konocti Unified,61673524.62
+17,Lakeport Unified,23595936.16
+17,Lucerne Elementary,4298266.73
+17,Middletown Unified,20644035.58
+17,Upper Lake Unified,17534584.38
+18,Big Valley Joint Unified,2803533.43
+18,Janesville Union Elementary,4662439.96
+18,Johnstonville Elementary,2414432.61
+18,Lassen Union High,12395493.7
+18,Ravendale-Termo Elementary,311624.56
+18,Richmond Elementary,2301989.02
+18,Shaffer Union Elementary,2985466.58
+18,Susanville Elementary,12935265.48
+18,Westwood Unified,3140453.49
+18,Fort Sage Unified,3171120.7
+19,ABC Unified,291143386.1
+19,Antelope Valley Union High,328964654.8
+19,Arcadia Unified,139132267.7
+19,Azusa Unified,132742301.8
+19,Baldwin Park Unified,184383422.6
+19,Bassett Unified,51193291.44
+19,Bellflower Unified,189329529.1
+19,Beverly Hills Unified,89581650.04
+19,Bonita Unified,140336861.8
+19,Burbank Unified,202406395.1
+19,Castaic Union Elementary,28454714.33
+19,Centinela Valley Union High,121235237
+19,Charter Oak Unified,72567070.87
+19,Claremont Unified,95399811.81
+19,Covina-Valley Unified,190604257.1
+19,Culver City Unified,111084904.7
+19,Downey Unified,382884376.3
+19,Duarte Unified,50080652.35
+19,Eastside Union Elementary,54286836.4
+19,East Whittier City Elementary,131282933.8
+19,El Monte City Elementary,153305482
+19,El Monte Union High,147767360
+19,El Rancho Unified,124786882.1
+19,El Segundo Unified,48200706.6
+19,Garvey Elementary,84914101.51
+19,Glendale Unified,396469392.9
+19,Glendora Unified,88106587.98
+19,Gorman Joint,1456826.2
+19,Hawthorne Elementary,122917283.6
+19,Hermosa Beach City Elementary,17485926.63
+19,Hughes-Elizabeth Lakes Union Elementary,2134127.57
+19,Inglewood Unified,151309417.7
+19,Keppel Union Elementary,41564190.77
+19,La Canada Unified,61976865.51
+19,Lancaster Elementary,232660580.7
+19,Las Virgenes Unified,147601195.9
+19,Lawndale Elementary,96450198.53
+19,Lennox Elementary,82091151.71
+19,Little Lake City Elementary,64677009.96
+19,Long Beach Unified,1169789280
+19,Los Angeles Unified,9214333548
+19,Los Nietos Elementary,24932657.06
+19,Lynwood Unified,230332617.7
+19,Monrovia Unified,80726371.95
+19,Montebello Unified,459355571.4
+19,Mountain View Elementary,101076017.6
+19,Newhall Elementary,80672966.26
+19,Norwalk-La Mirada Unified,284039859.5
+19,Palmdale Elementary,291797125.6
+19,Palos Verdes Peninsula Unified,151287491.1
+19,Paramount Unified,253002338
+19,Pasadena Unified,290620370.4
+19,Pomona Unified,349440748.3
+19,Rosemead Elementary,40842712.08
+19,San Marino Unified,43920558.94
+19,Santa Monica-Malibu Unified,203010875.8
+19,Saugus Union Elementary,125728987.1
+19,South Pasadena Unified,67038212.02
+19,South Whittier Elementary,49866950.24
+19,Sulphur Springs Union Elementary,78148651.09
+19,Temple City Unified,81058446.77
+19,Torrance Unified,300716463.9
+19,Valle Lindo Elementary,15007307.13
+19,West Covina Unified,138642834.7
+19,Westside Union Elementary,113237697.9
+19,Whittier City Elementary,97513529.09
+19,Whittier Union High,208068070.3
+19,William S. Hart Union High,308111047.6
+19,Wilsona Elementary,23964579.05
+19,Compton Unified,324894079.6
+19,Hacienda La Puente Unified,265236105.8
+19,Rowland Unified,225873033
+19,Walnut Valley Unified,180912217.6
+19,San Gabriel Unified,78502498.65
+19,Acton-Agua Dulce Unified,18682392.53
+19,Manhattan Beach Unified,97585241.5
+19,Redondo Beach Unified,123248137.5
+19,Alhambra Unified,267633496.3
+19,Wiseburn Unified,36752702.18
+20,Alview-Dairyland Union Elementary,5425792.94
+20,Bass Lake Joint Union Elementary,14499517.71
+20,Chowchilla Elementary,35433303.31
+20,Chowchilla Union High,17274837.78
+20,Madera Unified,353027920.7
+20,Raymond-Knowles Union Elementary,1142452.47
+20,Golden Valley Unified,31473569.66
+20,Chawanakee Unified,17024427.67
+20,Yosemite Unified,21467840.86
+21,Bolinas-Stinson Union Elementary,5554972.38
+21,Miller Creek Elementary,30570570.01
+21,Kentfield Elementary,20078765.41
+21,Laguna Joint Elementary,587172.9
+21,Lagunitas Elementary,3928226.16
+21,Larkspur-Corte Madera,21597284.38
+21,Mill Valley Elementary,49461584.22
+21,Nicasio Elementary,1125467.95
+21,Novato Unified,109365960.5
+21,Reed Union Elementary,24966754.15
+21,Ross Elementary,9924907.5
+21,San Rafael City Elementary,75868907.43
+21,San Rafael City High,45760701.57
+21,Sausalito Marin City Elementary,10416508.92
+21,Tamalpais Union High,104785193.9
+21,Shoreline Unified,16696894.91
+21,Ross Valley Elementary,27606877.87
+22,Mariposa County Unified,26696811.55
+23,Anderson Valley Unified,8930705.19
+23,Fort Bragg Unified,27185528.8
+23,Manchester Union Elementary,917404.95
+23,Mendocino Unified,10246312.63
+23,Round Valley Unified,10290037.87
+23,Ukiah Unified,101764816.9
+23,Willits Unified,25885219.5
+23,Potter Valley Community Unified,5159584.76
+23,Laytonville Unified,5734457.85
+23,Leggett Valley Unified,3241987.08
+23,Arena Union Elementary/Point Arena Joint Union High,9596789.99
+24,Atwater Elementary,71144612.78
+24,Ballico-Cressey Elementary,1555955.64
+24,El Nido Elementary,2950587.92
+24,Hilmar Unified,33137443.15
+24,Le Grand Union Elementary,6884160.25
+24,Le Grand Union High,10649552.74
+24,Livingston Union Elementary,37018863.25
+24,Los Banos Unified,172096768.3
+24,McSwain Union Elementary,11449763.75
+24,Merced City Elementary,153741653.4
+24,Merced Union High,174005806.1
+24,Plainsburg Union Elementary,1504854.16
+24,Planada Elementary,15332536.92
+24,Snelling-Merced Falls Union Elementary,1068043.74
+24,Weaver Union Elementary,48119943.76
+24,Winton Elementary,30396600.09
+24,Gustine Unified,29941306.85
+24,Merced River Union Elementary,3270812.37
+24,Dos Palos Oro Loma Joint Unified,40325638.22
+24,Delhi Unified,42967134.71
+25,Surprise Valley Joint Unified,1990862.65
+25,Modoc Joint Unified,12585386.46
+25,Tulelake Basin Joint Unified,7701945.3
+26,Eastern Sierra Unified,11933978.7
+26,Mammoth Unified,18133833.66
+27,Alisal Union Elementary,124088989.4
+27,Bradley Union Elementary,992799.26
+27,Carmel Unified,74655806.11
+27,Chualar Union Elementary,5390801.67
+27,Graves Elementary,613341.12
+27,Greenfield Union Elementary,55338330.03
+27,King City Union Elementary,40293680.47
+27,South Monterey County Joint Union High,41124785.04
+27,Lagunita Elementary,1149869.77
+27,Mission Union Elementary,1688750.37
+27,Monterey Peninsula Unified,160312077.2
+27,Pacific Grove Unified,43481574.72
+27,Salinas City Elementary,159903553.6
+27,Salinas Union High,288340048.3
+27,San Antonio Union Elementary,2016709.43
+27,San Ardo Union Elementary,2249030.36
+27,San Lucas Union Elementary,1908605.96
+27,Santa Rita Union Elementary,49721725.19
+27,Spreckels Union Elementary,11191919.43
+27,Washington Union Elementary,10046592.08
+27,North Monterey County Unified,85029637.5
+27,Big Sur Unified,958818.68
+27,Soledad Unified,77441064.47
+27,Gonzales Unified,38174158.12
+28,Calistoga Joint Unified,22638405.48
+28,Howell Mountain Elementary,2124235.34
+28,Napa Valley Unified,225735928.5
+28,Pope Valley Union Elementary,1741248.72
+28,Saint Helena Unified,41582559.34
+29,Chicago Park Elementary,2106989.06
+29,Clear Creek Elementary,1948439.36
+29,Grass Valley Elementary,18460510.95
+29,Nevada City Elementary,10454252.65
+29,Nevada Joint Union High,44499596.56
+29,Pleasant Ridge Union Elementary,18315722.43
+29,Union Hill Elementary,8642756.08
+29,Twin Ridges Elementary,2529213.69
+29,Penn Valley Union Elementary,7486676.37
+30,Lowell Joint Elementary,38700511.47
+30,Anaheim Elementary,306482402.1
+30,Anaheim Union High,466145798.2
+30,Brea-Olinda Unified,88179254.18
+30,Buena Park Elementary,71700896.09
+30,Capistrano Unified,630103847.2
+30,Centralia Elementary,62087732.78
+30,Cypress Elementary,52353358.78
+30,Fountain Valley Elementary,83899330.66
+30,Fullerton Elementary,190532751.3
+30,Fullerton Joint Union High,192622863.5
+30,Garden Grove Unified,729069625.2
+30,Huntington Beach City Elementary,76252781.07
+30,Huntington Beach Union High,230810102.8
+30,Laguna Beach Unified,72703023.23
+30,La Habra City Elementary,79025750.45
+30,Magnolia Elementary,89628449.3
+30,Newport-Mesa Unified,391557876.5
+30,Ocean View Elementary,107466955.2
+30,Orange Unified,341475365.7
+30,Placentia-Yorba Linda Unified,339785177.5
+30,Santa Ana Unified,836946479.6
+30,Savanna Elementary,31423788.21
+30,Westminster Elementary,147190706.5
+30,Saddleback Valley Unified,347872288
+30,Tustin Unified,322387879.7
+30,Irvine Unified,498577736.8
+30,Los Alamitos Unified,129407321.4
+31,Ackerman Charter,6687174.92
+31,Alta-Dutch Flat Union Elementary,1578499.03
+31,Auburn Union Elementary,22713446.58
+31,Colfax Elementary,5435308.79
+31,Dry Creek Joint Elementary,82285024.09
+31,Eureka Union Elementary,41397597.02
+31,Foresthill Union Elementary,6670398.38
+31,Loomis Union Elementary,28116037.04
+31,Newcastle Elementary,3320856.33
+31,Placer Hills Union Elementary,10167208.65
+31,Placer Union High,60005788.73
+31,Roseville City Elementary,148803012.9
+31,Roseville Joint Union High,156117281.6
+31,Tahoe-Truckee Unified,85124905.86
+31,Western Placer Unified,103158421.3
+31,Rocklin Unified,158836093.7
+32,Plumas Unified,34485833.18
+33,Alvord Unified,298435354
+33,Banning Unified,76488949.11
+33,Beaumont Unified,174095423.8
+33,Corona-Norco Unified,737924084.2
+33,Desert Center Unified,1935201.64
+33,Desert Sands Unified,403215014.1
+33,Hemet Unified,365339112.1
+33,Jurupa Unified,348689299.2
+33,Menifee Union Elementary,152485241.8
+33,Moreno Valley Unified,550732571.7
+33,Nuview Union Elementary,24825351.47
+33,Palm Springs Unified,398921287.5
+33,Palo Verde Unified,46215101.31
+33,Perris Elementary,78798588.08
+33,Perris Union High,178293662.3
+33,Riverside Unified,631837059.9
+33,Romoland Elementary,62439488.68
+33,San Jacinto Unified,179349601.7
+33,Coachella Valley Unified,327321186.6
+33,Lake Elsinore Unified,311646311.1
+33,Temecula Valley Unified,356858848.6
+33,Murrieta Valley Unified,309076805.9
+33,Val Verde Unified,331453847.1
+34,Arcohe Union Elementary,6276862.82
+34,Elk Grove Unified,939047576.2
+34,Elverta Joint Elementary,3250236.68
+34,Folsom-Cordova Unified,289063648.2
+34,Galt Joint Union Elementary,52057896.94
+34,Galt Joint Union High,31270059.94
+34,River Delta Joint Unified,28908464.91
+34,Robla Elementary,32931120.51
+34,Sacramento City Unified,603995985.3
+34,San Juan Unified,571694867.2
+34,Center Joint Unified,66391198.84
+34,Natomas Unified,164667611
+34,Twin Rivers Unified,430563815.8
+35,Bitterwater-Tully Elementary,402756.04
+35,Cienega Union Elementary,390011.73
+35,Hollister Elementary,77910068.97
+35,Jefferson Elementary,203799.42
+35,North County Joint Union Elementary,8791150.01
+35,Panoche Elementary,219974.26
+35,San Benito High,48022123.61
+35,Southside Elementary,2015876.72
+35,Tres Pinos Union Elementary,747249.89
+35,Willow Grove Union Elementary,474915.13
+35,Aromas - San Juan Unified,14493715.62
+36,Adelanto Elementary,131918316.3
+36,Alta Loma Elementary,77711928.24
+36,Barstow Unified,89139119.6
+36,Bear Valley Unified,32400356
+36,Central Elementary,60905394.09
+36,Chaffey Joint Union High,359380776.5
+36,Chino Valley Unified,364368052.7
+36,Colton Joint Unified,347559861.2
+36,Cucamonga Elementary,45310308.16
+36,Etiwanda Elementary,193435950.9
+36,Fontana Unified,595331697.4
+36,Helendale Elementary,9499868.88
+36,Morongo Unified,119096061.7
+36,Mountain View Elementary,38705832.67
+36,Mt. Baldy Joint Elementary,1303383.71
+36,Needles Unified,20546465.57
+36,Ontario-Montclair Elementary,383041705.1
+36,Oro Grande Elementary,10486040.26
+36,Redlands Unified,336827818.2
+36,Rialto Unified,408045888.3
+36,Rim of The World Unified,45305280.05
+36,San Bernardino City Unified,901215818.1
+36,Trona Joint Unified,7077391.83
+36,Victor Elementary,188624330.1
+36,Victor Valley Union High,198402979.6
+36,Yucaipa-Calimesa Joint Unified,126779637.6
+36,Baker Valley Unified,3666039.93
+36,Silver Valley Unified,38950503.31
+36,Snowline Joint Unified,108838372.7
+36,Hesperia Unified,339406118.3
+36,Lucerne Valley Unified,19797757.14
+36,Upland Unified,157597750.3
+36,Apple Valley Unified,213196462.2
+37,Alpine Union Elementary,21074041.55
+37,Borrego Springs Unified,8103665.83
+37,Cajon Valley Union Elementary,260537910.8
+37,Cardiff Elementary,11933441.27
+37,Chula Vista Elementary,347728504.5
+37,Coronado Unified,49748870.81
+37,Dehesa Elementary,2784485.58
+37,Del Mar Union Elementary,72053463.98
+37,Encinitas Union Elementary,76529609.89
+37,Escondido Union Elementary,258294612.4
+37,Escondido Union High,125470895.1
+37,Fallbrook Union Elementary,99909639.1
+37,Fallbrook Union High,37505094.06
+37,Grossmont Union High,282371566.6
+37,Jamul-Dulzura Union Elementary,8817047.92
+37,Julian Union Elementary,5539669.91
+37,Julian Union High,4023506.75
+37,Lakeside Union Elementary,70143230.98
+37,La Mesa-Spring Valley,168824636.2
+37,Lemon Grove Elementary,55259548.56
+37,Mountain Empire Unified,31794889.1
+37,National Elementary,85699317.14
+37,Poway Unified,479808308.7
+37,Ramona City Unified,69536703.71
+37,Rancho Santa Fe Elementary,13741712.72
+37,San Diego Unified,1822527187
+37,San Dieguito Union High,175282650
+37,San Pasqual Union Elementary,6463494.84
+37,Santee Elementary,85454843.84
+37,San Ysidro Elementary,78806232.67
+37,Solana Beach Elementary,57766921.96
+37,South Bay Union Elementary,98676592.53
+37,Spencer Valley Elementary,5363948.51
+37,Sweetwater Union High,526965381.6
+37,Vallecitos Elementary,3734798.68
+37,Vista Unified,312593030.3
+37,Carlsbad Unified,159706031.3
+37,Oceanside Unified,271102154.8
+37,San Marcos Unified,268932562.4
+37,Warner Unified,5540183.23
+37,Valley Center-Pauma Unified,57548822.3
+37,Bonsall Unified,31753710.2
+38,San Francisco Unified,1056667857
+39,Escalon Unified,34798283.33
+39,Jefferson Elementary,28931990.83
+39,Lincoln Unified,118297375.6
+39,Linden Unified,37263346.53
+39,Lodi Unified,414596210.5
+39,Manteca Unified,345543338.3
+39,New Hope Elementary,3375759.02
+39,New Jerusalem Elementary,4635499.39
+39,Oak View Union Elementary,4649989.67
+39,Ripon Unified,42537071.96
+39,Stockton Unified,582593089.3
+39,Tracy Joint Unified,218255332.9
+39,Lammersville Joint Unified,81695010.37
+39,Banta Unified,5701563.12
+40,Atascadero Unified,61118674.72
+40,Cayucos Elementary,4295100.7
+40,Lucia Mar Unified,143493858.7
+40,Pleasant Valley Joint Union Elementary,1114179.8
+40,San Luis Coastal Unified,128692734.2
+40,San Miguel Joint Union Elementary,9206314.2
+40,Shandon Joint Unified,5203448.29
+40,Templeton Unified,30498004.55
+40,Paso Robles Joint Unified,100174774.2
+40,Coast Unified,14174483.17
+41,Bayshore Elementary,6421978.83
+41,Belmont-Redwood Shores Elementary,55969466.13
+41,Brisbane Elementary,11056186.86
+41,Burlingame Elementary,49010937.17
+41,Cabrillo Unified,47703956.91
+41,Hillsborough City Elementary,36312519.98
+41,Jefferson Elementary,79318648.05
+41,Jefferson Union High,80067594.2
+41,Pacifica Elementary,39170020.49
+41,La Honda-Pescadero Unified,7481981.49
+41,Las Lomitas Elementary,34346241.83
+41,Menlo Park City Elementary,68076088.9
+41,Millbrae Elementary,30004794.99
+41,Portola Valley Elementary,16381464.96
+41,Ravenswood City Elementary,46516928.42
+41,Redwood City Elementary,124126587.9
+41,San Bruno Park Elementary,34725423.59
+41,San Carlos Elementary,44386096.3
+41,San Mateo-Foster City Elementary,188092903.4
+41,San Mateo Union High,210958573.5
+41,Sequoia Union High,210487610.7
+41,South San Francisco Unified,139587289.5
+41,Woodside Elementary,13002442.93
+42,Ballard Elementary,2611186.53
+42,Blochman Union Elementary,2961728.77
+42,Santa Maria-Bonita Elementary,255433361.7
+42,Buellton Union Elementary,14172733.43
+42,Carpinteria Unified,41445890.23
+42,Cold Spring Elementary,4862287.89
+42,College Elementary,5241821.63
+42,Goleta Union Elementary,75357416
+42,Guadalupe Union Elementary,23609491.18
+42,Hope Elementary,14027392.59
+42,Lompoc Unified,138053022.1
+42,Los Olivos Elementary,2392890.65
+42,Montecito Union Elementary,13568027.56
+42,Orcutt Union Elementary,51852006.6
+42,Santa Maria Joint Union High,149493257.3
+42,Santa Ynez Valley Union High,15277308.05
+42,Solvang Elementary,7406655.39
+42,Vista Del Mar Union Elementary,1490675.97
+42,Cuyama Joint Unified,3670780.02
+42,Santa Barbara Unified,211202379.1
+43,Alum Rock Union Elementary,152086580.5
+43,Berryessa Union Elementary,95956381.18
+43,Cambrian Elementary,46468743.92
+43,Campbell Union Elementary,108137154.6
+43,Campbell Union High,143173687.4
+43,Cupertino Union Elementary,209244574.2
+43,East Side Union High,335400686
+43,Evergreen Elementary,128529913.2
+43,Franklin-McKinley Elementary,119979085.4
+43,Fremont Union High,206068602.2
+43,Gilroy Unified,157485164.6
+43,Lakeside Joint Elementary,2458494.7
+43,Loma Prieta Joint Union Elementary,7557813.51
+43,Los Altos Elementary,75825306.68
+43,Los Gatos Union Elementary,52057304.22
+43,Los Gatos-Saratoga Union High,68871902.25
+43,Luther Burbank Elementary,7759066.03
+43,Moreland Elementary,65017319.18
+43,Morgan Hill Unified,122046468.3
+43,Mountain View Whisman Elementary,96858204.32
+43,Mountain View-Los Altos Union High,126593240.5
+43,Mount Pleasant Elementary,33852912.26
+43,Oak Grove Elementary,134888691.8
+43,Orchard Elementary,14491099.09
+43,Palo Alto Unified,281559938.7
+43,San Jose Unified,436051169.2
+43,Santa Clara Unified,364362844.1
+43,Saratoga Union Elementary,36475277.71
+43,Sunnyvale Elementary,125451769.1
+43,Union Elementary,80331190.43
+43,Milpitas Unified,149728337.1
+44,Santa Cruz City Elementary/High,108248604.3
+44,Bonny Doon Union Elementary,2455492.22
+44,Happy Valley Elementary,1962046.1
+44,Live Oak Elementary,27084873.43
+44,Mountain Elementary,2452100.77
+44,Pacific Elementary,1844255.11
+44,Pajaro Valley Unified,316126872
+44,San Lorenzo Valley Unified,31345719.57
+44,Soquel Union Elementary,24348883.27
+44,Scotts Valley Unified,29940957.99
+45,Anderson Union High,22180733.69
+45,Bella Vista Elementary,5308338.01
+45,Black Butte Union Elementary,4172210.6
+45,Cascade Union Elementary,20175759.56
+45,Castle Rock Union Elementary,1120502.02
+45,Columbia Elementary,12070372.96
+45,Cottonwood Union Elementary,14102326.52
+45,Enterprise Elementary,51095906.28
+45,Fall River Joint Unified,19383932.68
+45,French Gulch-Whiskeytown Elementary,426800.76
+45,Grant Elementary,8270915.81
+45,Happy Valley Union Elementary,6793368.77
+45,"Igo, Ono, Platina Union Elementary                                         ",901484.9
+45,Junction Elementary,5491543.72
+45,Millville Elementary,3746093.03
+45,North Cow Creek Elementary,2976656.73
+45,Oak Run Elementary,970098.78
+45,Pacheco Union Elementary,9228185.35
+45,Redding Elementary,45647359.31
+45,Shasta Union Elementary,1711113.29
+45,Shasta Union High,66344502.23
+45,Whitmore Union Elementary,871437.25
+45,Mountain Union Elementary,1514693.4
+45,Gateway Unified,38785824.53
+46,Sierra-Plumas Joint Unified,7427983.47
+47,Big Springs Union Elementary,2463757.21
+47,Bogus Elementary,304163.89
+47,Butteville Union Elementary,2204446.21
+47,Delphic Elementary,954844.22
+47,Dunsmuir Elementary,2033344.61
+47,Dunsmuir Joint Union High,2335161.78
+47,Forks of Salmon Elementary,177377.18
+47,Gazelle Union Elementary,655460.34
+47,Grenada Elementary,2594063.25
+47,Happy Camp Union Elementary,2458889.56
+47,Hornbrook Elementary,1111707.22
+47,Junction Elementary,410527.92
+47,Klamath River Union Elementary,443872.7
+47,Little Shasta Elementary,397769.76
+47,McCloud Union Elementary,862166.03
+47,Montague Elementary,2478298.99
+47,Mt. Shasta Union Elementary,6982709.48
+47,Seiad Elementary,472706.71
+47,Siskiyou Union High,9047705.86
+47,Weed Union Elementary,6008392.43
+47,Willow Creek Elementary,666451.34
+47,Yreka Union Elementary,15141756.15
+47,Yreka Union High,12380199.89
+47,Butte Valley Unified,5339292.85
+47,Scott Valley Unified,11204367.04
+48,Benicia Unified,59373108.38
+48,Dixon Unified,41162743.17
+48,Fairfield-Suisun Unified,284740007.5
+48,Travis Unified,72905693.82
+48,Vacaville Unified,150336999.7
+48,Vallejo City Unified,181819110.6
+49,Petaluma City Elementary/Joint Union High,113745803.2
+49,Santa Rosa City Schools,230628424.5
+49,Alexander Valley Union Elementary,2765859.94
+49,West Sonoma County Union High,25338260.59
+49,Bellevue Union Elementary,32425827.9
+49,Bennett Valley Union Elementary,12299039.38
+49,Cinnabar Elementary,3881150.94
+49,Cloverdale Unified,21991004.4
+49,Dunham Elementary,2014958.72
+49,Forestville Union Elementary,4963683.39
+49,Fort Ross Elementary,753655.69
+49,Geyserville Unified,5004236.24
+49,Gravenstein Union Elementary,12516240.91
+49,Guerneville Elementary,5764344.64
+49,Harmony Union Elementary,5785220.18
+49,Horicon Elementary,2188948
+49,Kenwood Elementary,3377253.63
+49,Liberty Elementary,3779330.96
+49,Mark West Union Elementary,19391887.35
+49,Monte Rio Union Elementary,1893502.07
+49,Montgomery Elementary,808335.81
+49,Oak Grove Union Elementary,13398940.56
+49,Old Adobe Union Elementary,29288329.48
+49,Piner-Olivet Union Elementary,16694160.65
+49,Kashia Elementary,527558.7
+49,Rincon Valley Union Elementary,45226346.68
+49,Roseland Elementary,48438806.58
+49,Sebastopol Union Elementary,8924525.63
+49,Sonoma Valley Unified,73604278.87
+49,Twin Hills Union Elementary,8978293.03
+49,Two Rock Union Elementary,2061488.07
+49,Waugh Elementary,10491218.02
+49,West Side Union Elementary,2052296.78
+49,Wilmar Union Elementary,3026333.16
+49,Wright Elementary,24043949.89
+49,Cotati-Rohnert Park Unified,89451768.42
+49,Windsor Unified,54059789.47
+49,Healdsburg Unified,28908543.84
+50,Modesto City Schools,495363886.5
+50,Ceres Unified,226814051.2
+50,Chatom Union Elementary,7992958.09
+50,Denair Unified,18195460.06
+50,Empire Union Elementary,43332235.05
+50,Gratton Elementary,2050409.21
+50,Hart-Ransom Union Elementary,9174674.32
+50,Hickman Community Charter,11808871.92
+50,Keyes Union Elementary,13226951.8
+50,Knights Ferry Elementary,1738695.18
+50,Paradise Elementary,2578289.99
+50,Patterson Joint Unified,94440366.4
+50,Roberts Ferry Union Elementary,2371235.29
+50,Salida Union Elementary,35765393.4
+50,Shiloh Elementary,2685248.54
+50,Stanislaus Union Elementary,54406891.63
+50,Sylvan Union Elementary,119892361.5
+50,Valley Home Joint Elementary,2455603.17
+50,Newman-Crows Landing Unified,53144026.7
+50,Hughson Unified,31961960.22
+50,Riverbank Unified,41894406.15
+50,Oakdale Joint Unified,72663676.45
+50,Waterford Unified,32519530.59
+50,Turlock Unified,213288872.8
+51,Brittan Elementary,4869282.95
+51,Browns Elementary,1619514.22
+51,East Nicolaus Joint Union High,4739200.18
+51,Franklin Elementary,5610148.62
+51,Live Oak Unified,31350377.32
+51,Marcum-Illinois Union Elementary,2628607.91
+51,Meridian Elementary,1106712.8
+51,Nuestro Elementary,2245925.07
+51,Pleasant Grove Joint Union Elementary,2051478.33
+51,Sutter Union High,10721280.38
+51,Winship-Robbins Elementary,2242880.78
+51,Yuba City Unified,182096493.8
+52,Antelope Elementary,10230825.91
+52,Corning Union Elementary,30978723.41
+52,Corning Union High,16297406.22
+52,Evergreen Union Elementary,14410139.73
+52,Flournoy Union Elementary,692105.13
+52,Gerber Union Elementary,6593364.27
+52,Kirkwood Elementary,1456354.02
+52,Lassen View Union Elementary,4740325.4
+52,Los Molinos Unified,9316383.63
+52,Red Bluff Union Elementary,34555346.59
+52,Red Bluff Joint Union High,27448882.31
+52,Reeds Creek Elementary,2341554.7
+52,Richfield Elementary,3025651.02
+53,Burnt Ranch Elementary,1560098.75
+53,Coffee Creek Elementary,247215.48
+53,Douglas City Elementary,2402085.38
+53,Junction City Elementary,1209383.11
+53,Lewiston Elementary,1263828.84
+53,Trinity Center Elementary,305304.37
+53,Southern Trinity Joint Unified,2647336.02
+53,Mountain Valley Unified,5755029.02
+53,Trinity Alps Unified,10910536.71
+54,Allensworth Elementary,1408566.52
+54,Alpaugh Unified,6179532.73
+54,Alta Vista Elementary,7986709.62
+54,Buena Vista Elementary,2874646.48
+54,Burton Elementary,79095495.72
+54,Columbine Elementary,2129248.47
+54,Cutler-Orosi Joint Unified,71537472.75
+54,Ducor Union Elementary,3120048.98
+54,Earlimart Elementary,32066013.86
+54,Hope Elementary,3458816.23
+54,Hot Springs Elementary,299659.06
+54,Kings River Union Elementary,7347767.41
+54,Liberty Elementary,7332119.81
+54,Lindsay Unified,80773744.76
+54,Monson-Sultana Joint Union Elementary,6629577.31
+54,Oak Valley Union Elementary,9250623.95
+54,Outside Creek Elementary,1230766.66
+54,Palo Verde Union Elementary,7712563.96
+54,Pixley Union Elementary,17387029.76
+54,Pleasant View Elementary,7511488.58
+54,Richgrove Elementary,10979657.25
+54,Rockford Elementary,3677364.19
+54,Saucelito Elementary,1384115.75
+54,Sequoia Union Elementary,852770.96
+54,Springville Union Elementary,4343298.28
+54,Stone Corral Elementary,2554811.49
+54,Strathmore Union Elementary,11860768.71
+54,Sundale Union Elementary,10716635.88
+54,Sunnyside Union Elementary,6133976.56
+54,Terra Bella Union Elementary,14137919.54
+54,Three Rivers Union Elementary,1762712.95
+54,Tipton Elementary,8600515.21
+54,Traver Joint Elementary,3743024.52
+54,Tulare City Elementary,133199236.3
+54,Tulare Joint Union High,98479887.53
+54,Visalia Unified,464230404.8
+54,Waukena Joint Union Elementary,3203094.01
+54,Woodville Union Elementary,8174696.99
+54,Farmersville Unified,48142474.13
+54,Porterville Unified,232730850.9
+54,Dinuba Unified,98751194.95
+54,Woodlake Unified,35357532.08
+54,Exeter Unified,41570969.33
+55,Belleview Elementary,2559891.9
+55,Columbia Union Elementary,6243413.82
+55,Curtis Creek Elementary,5611091.33
+55,Jamestown Elementary,6160376.06
+55,Sonora Elementary,9943421.68
+55,Sonora Union High,15942866.22
+55,Soulsbyville Elementary,6217144.25
+55,Summerville Elementary,5424140.31
+55,Summerville Union High,7574336.48
+55,Twain Harte Elementary,4477378.12
+55,Big Oak Flat-Groveland Unified,6967611.36
+56,Briggs Elementary,7565522.85
+56,Fillmore Unified,68768234.97
+56,Hueneme Elementary,134460654.4
+56,Mesa Union Elementary,7899563.01
+56,Mupu Elementary,2162600.49
+56,Ocean View Elementary,36696529.87
+56,Ojai Unified,33414270.95
+56,Oxnard Elementary,261010541.6
+56,Oxnard Union High,272010053.6
+56,Pleasant Valley,78181221.1
+56,Rio Elementary,87776376.71
+56,Santa Clara Elementary,869347.5
+56,Simi Valley Unified,234337352.9
+56,Somis Union Elementary,4044294.89
+56,Ventura Unified,234241252.7
+56,Conejo Valley Unified,241728667.3
+56,Oak Park Unified,56966392.6
+56,Moorpark Unified,73910343.87
+56,Santa Paula Unified,95284073.39
+57,Davis Joint Unified,124037949.2
+57,Esparto Unified,16116667.67
+57,Washington Unified,110318593.3
+57,Winters Joint Unified,23891479.95
+57,Woodland Joint Unified,142937776.1
+58,Camptonville Elementary,1200993.63
+58,Marysville Joint Unified,145833356.2
+58,Plumas Lake Elementary,21383789.69
+58,Wheatland Elementary,23624461.83
+58,Wheatland Union High,19651003.23
