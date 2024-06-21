@@ -3,9 +3,12 @@ let values = []; // Define labels outside to extend its scope
 let countys = [];
 let county_codes = [];
 let selection = 1;
+let flag = 0;
 
 let county_data = [];
 let district_data = [];
+
+let chart = "";
 
 
 function handleDropdownChange(selectedValue) {
@@ -33,9 +36,10 @@ document.addEventListener('DOMContentLoaded', function() {
             district_data = Papa.parse(data, {
                 header: true,
                 complete: function(results) {
-                    //console.log('Parsed Data:', results.data);  // Add this line
+                    console.log('Parsed Data:', results.data, typeof results.data);  // Add this line
                     if (results.data && results.data.length > 0) {
-                        createChart(results.data);
+                        const temp_data = filterData(results.data);
+                        createChart(temp_data);
                         } else {
                             console.error('Parsed data is empty or invalid');
                     }
@@ -55,7 +59,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 complete: function(results) {
                     //console.log('Parsed County Data:', results.data);  // Add this line
                     if (results.data && results.data.length > 0) {
-                        selectCounty(results.data)
+                        selectCounty(results.data);
+                        populateTable(results.data);
                         } else {
                             console.error('Parsed data is empty or invalid');
                     }
@@ -63,6 +68,22 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         })
         .catch(error => console.error('Error fetching CSV data:', error));
+
+    // Function to populate HTML table
+    function populateTable(data) {
+        const tbody = document.getElementById('data-table').getElementsByTagName('tbody')[0];
+    tbody.innerHTML = ''; // Clear any existing rows
+
+    data.forEach(item => {
+        const row = tbody.insertRow();
+        const cellLabel = row.insertCell(0);
+        const cellValue = row.insertCell(1);
+        cellLabel.textContent = item.Name;
+        cellValue.textContent = item.CO;
+    });
+}
+
+
     
     function populateDropdown() {
         const dropdown = document.getElementById('dropdown');
@@ -97,28 +118,58 @@ document.addEventListener('DOMContentLoaded', function() {
     const dropdown = document.getElementById('dropdown');
     dropdown.addEventListener('change', function() {
         let selection = dropdown.value;
-        console.log(district_data);
-        createChart(district_data);
-    });
 
-    function createChart(data) {
+
+
+        temp = Object.keys(district_data).map(data => district_data[data])[0];
+        console.log(temp);
+
+        console.log("dropdown update data", temp, typeof temp);
+        filteredData = filterData(temp);
+
+
+        createChart(filteredData);
+    });
+    
+    // Function to update chart data
+    function updateChart(data) {
+        createChart(data);
+
+
+        //chart.update();
+    }
+
+    function filterData(data){
+
+        console.log("filterData input: ", data, typeof data);
+        console.log("current selection ", selection);
         if (!data || data.length === 0) {
             console.error('No data provided to createChart');
             return;
         }
         // Define the condition for filtering
-        const condition = (entry) => parseFloat(entry.CO) === selection;
+        const condition = (entry) => parseFloat(parseInt(entry.CO)) === parseInt(selection);
 
         // Filter the data based on the condition
         const filteredData = data.filter(condition);
 
+        console.log("filterData post filter: ", filteredData, typeof filteredData);
+        
         if (filteredData.length === 0) {
             console.error('No data entries meet the specified condition.');
             return;
         }
+        if (!data || data.length === 0) {
+            console.error('No data provided to createChart');
+            return;
+        }
+        return filteredData;
+    }
 
-        // Validate that all entries in filteredData have the 'Month' property
-        const school_districts = filteredData.map((d, index) => {
+    function createChart(data) {
+
+        // Validate that all entries in filteredData have the 'Name' property
+        const school_districts = data.map((d, index) => {
             if (!d.Name) {
                 console.error(`Entry at index ${index} is missing the 'Name' property:`, d);
                 return '';
@@ -132,7 +183,7 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        const values = filteredData.map(d => {
+        const values = data.map(d => {
             const value = parseFloat(d.Value);
             if (isNaN(value)) {
                 console.error(`Invalid number found in data: ${d.Value}`);
@@ -141,14 +192,14 @@ document.addEventListener('DOMContentLoaded', function() {
             return value;
         });
 
-        // Log labels and values arrays to ensure they're correct
-        //console.log('Filtered Labels:', school_districts);  // Log filtered labels
-        //console.log('Filtered Values:', values);  // Log filtered values
-        //return school_districts;
-        //return values;
+        if(flag===0){
+            flag++;
+        } else{
+            chart.destroy();
+        }
 
         // Create a chart
-            const chart = new Chart(ctx, {
+            chart = new Chart(ctx, {
                 type: 'bar',
                 data: {
                     labels: school_districts,
@@ -168,6 +219,5 @@ document.addEventListener('DOMContentLoaded', function() {
                     }
                 }
             });
-            chart.update();
         }
 });

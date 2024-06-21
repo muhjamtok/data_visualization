@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    display: flex;
+    display: fixed;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -10,4 +10,9 @@ body {
 #chart {
     width: 80%;
     height: 60%;
+}
+
+#table{
+    width: 75%;
+    height: 10%;
 }
