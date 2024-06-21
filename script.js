@@ -81,6 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
         cellLabel.textContent = item.Name;
         cellValue.textContent = item.CO;
     });
+
+    
 }
 
 
