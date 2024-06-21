@@ -1,4 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
+    const canvas = document.getElementById('chart');
+    if (!canvas) {
+        console.error('Canvas element with id "chart" not found');
+        return;
+    }
+    const ctx = canvas.getContext('2d');
+    if (!ctx) {
+        console.error('getContext returned null');
+        return;
+    }
+
     // Simulated database data
     const data = [
         { label: 'January', value: 30 },
@@ -14,7 +25,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const values = data.map(d => d.value);
 
     // Create a chart
-    const ctx = document.getElementById('chart').getContext('2d');
     const chart = new Chart(ctx, {
         type: 'bar',
         data: {
