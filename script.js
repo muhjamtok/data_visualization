@@ -94,12 +94,13 @@ document.addEventListener('DOMContentLoaded', function() {
         dropdown.innerHTML = '';
 
         // Populate dropdown with options from optionsArray
-        county_codes.forEach(option => {
+        for ( let i = 0; i < countys.length; i++ ) {
             const optionElement = document.createElement('option');
             //optionElement.value = option.toLowerCase().replace(/\s/g, ''); // Set value to lowercase without spaces
-            optionElement.textContent = option; // Set text content to option value
+            optionElement.value = county_codes[i];
+            optionElement.textContent = countys[i]; // Set text content to option value
             dropdown.appendChild(optionElement);
-        });
+        }
     }
 
     function selectCounty(data){
@@ -119,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Handle dropdown change event
     const dropdown = document.getElementById('dropdown');
     dropdown.addEventListener('change', function() {
-        let selection = dropdown.value;
+        selection = dropdown.value;
 
 
 
